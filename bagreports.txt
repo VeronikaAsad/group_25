@@ -1,0 +1,11 @@
+id
+summary
+description
+requirement id
+actual result
+expected result
+steps to reproduse
+severity
+priority
+workaround
+
